@@ -1,0 +1,11 @@
+*.log
+*.tmp
+*.raw
+*.psf
+*.trn
+*.dsn
+*.cdslck
+*.oaLock
+*.simvision
+*.jou
+*.history
